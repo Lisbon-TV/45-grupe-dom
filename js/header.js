@@ -6,6 +6,7 @@ function renderHeader(isHomePage) {
                     <a href="${url}./clicker/">Clicker</a>
                     <a href="${url}./list/">List</a>
                     <a href="${url}./chess/">Chess</a>
+                    <a href="${url}./plus-minus/">Plus-Minus</a>
                 </header>`;
 
     bodyDOM.insertAdjacentHTML('afterbegin', HTML);
