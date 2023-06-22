@@ -24,6 +24,7 @@ for (let i = 1; i < 64; i++) {
         }
         row.appendChild(square);
     }
+}
 
 // function renderChessBoard(size = 8) {
 //     console.log(size);
