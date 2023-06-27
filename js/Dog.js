@@ -19,4 +19,4 @@ export class Dog {             // reikia constructor panaudoti objekta
     stand() {
         this.isStanding = true;
     }
-}
+} // closing class object!
