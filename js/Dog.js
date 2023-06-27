@@ -1,5 +1,5 @@
 // object is like recipe book, we need to ingredients to start to coock to see the result
-// to coock it we employ: .this and turn the result: -> methods / NOT functions withing the object!
+// to coock it we employ: .this and turn the result: -> methods / !!NO!! functions within the object!
 
 export class Dog {             // reikia constructor panaudoti objekta
     constructor(name, color) {
