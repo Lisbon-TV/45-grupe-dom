@@ -1,3 +1,6 @@
+// Kiti puslapiai NEVEIKIA, nes pridejom animals klase for practice
+// and changed main html for that!
+
 import { Dog } from "./Dog.js";  // capital D!
 
 
